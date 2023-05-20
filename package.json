@@ -1,7 +1,7 @@
 {
   "name": "eportfolio_react",
   "version": "0.1.0",
-  "homepage": "https://ultraj74.github.io/eportfolio_react",
+  "homepage": "https://ultraj74.github.io/reactPortfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
