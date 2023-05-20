@@ -1,0 +1,60 @@
+.experience__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.experience__container > div {
+    background: var(--color-bg-variant);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.experience__container > div:hover {
+    background: transparent;
+    border-color: var(--colory-primary-variant);
+}
+
+.experience__container > div h3 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+
+.experience__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+}
+
+.experience_details {
+    display: flex;
+    gap: 1rem;
+    align-items: center; /* Added align-items to center align the items vertically */
+}
+
+.experience_details-icon {
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+/*=======Media Queries (Medium Devices) ========*/
+@media screen and (max-width: 600px) {
+    .experience__container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; /* Added justify-content to center align the items horizontally */
+        gap: 2rem;
+    }
+
+    .experience__container > div {
+        width: 100%; /* Added width to make the divs take up the full width */
+        padding: 2.4rem;
+    }
+
+    .experience__content {
+        grid-template-columns: 1fr; /* Changed grid-template-columns to display the content in a single column */
+    }
+}
