@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/eportfolio_react/static/css/main.e99a5460.css",
+    "main.js": "/eportfolio_react/static/js/main.d62190bb.js",
+    "static/media/img9.jpg": "/eportfolio_react/static/media/img9.2aa21ca10578be19cd5b.jpg",
+    "static/media/img5.jpg": "/eportfolio_react/static/media/img5.3d30a055059989a09d42.jpg",
+    "static/media/img10.jpg": "/eportfolio_react/static/media/img10.61df85eaf4e4136b27c4.jpg",
+    "static/media/me-about.jpg": "/eportfolio_react/static/media/me-about.5ebac6427898e743e6dc.jpg",
+    "static/media/img7.jpg": "/eportfolio_react/static/media/img7.fa16b02f44abc2f18100.jpg",
+    "static/media/img2.jpg": "/eportfolio_react/static/media/img2.6535f4e274fede46266f.jpg",
+    "static/media/img3.jpg": "/eportfolio_react/static/media/img3.007a366a1b4f3bc95985.jpg",
+    "static/media/img6.jpg": "/eportfolio_react/static/media/img6.ef229d3e084dc22c5168.jpg",
+    "static/media/img1.jpg": "/eportfolio_react/static/media/img1.d1922697c38187ca9da2.jpg",
+    "static/media/img4.jpg": "/eportfolio_react/static/media/img4.b5471f0f38c7a0968e7b.jpg",
+    "static/media/portfolio2.png": "/eportfolio_react/static/media/portfolio2.50155264d0c15501518c.png",
+    "static/media/cv.pdf": "/eportfolio_react/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/ojt.jpg": "/eportfolio_react/static/media/ojt.6ade5ef6479d6fb2eafe.jpg",
+    "static/media/webdev_cert.jpg": "/eportfolio_react/static/media/webdev_cert.074e03dfb02aa251453a.jpg",
+    "static/media/me.png": "/eportfolio_react/static/media/me.88d488293fdbd5834fd5.png",
+    "static/media/portfolio3.png": "/eportfolio_react/static/media/portfolio3.da11d69cd5b2a7c62d09.png",
+    "static/media/sumobot.jpg": "/eportfolio_react/static/media/sumobot.322b427e1761a90048e4.jpg",
+    "static/media/angular.png": "/eportfolio_react/static/media/angular.db4acc836b2dd2650ab9.png",
+    "static/media/line tracing robot.jpg": "/eportfolio_react/static/media/line tracing robot.363bf82c22048cc1f02d.jpg",
+    "static/media/thesis.png": "/eportfolio_react/static/media/thesis.25fd6f9f6be0d0f2bf9e.png",
+    "static/media/portfolio1.png": "/eportfolio_react/static/media/portfolio1.3d79b0c79a74be19b4ad.png",
+    "index.html": "/eportfolio_react/index.html",
+    "main.e99a5460.css.map": "/eportfolio_react/static/css/main.e99a5460.css.map",
+    "main.d62190bb.js.map": "/eportfolio_react/static/js/main.d62190bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99a5460.css",
+    "static/js/main.d62190bb.js"
+  ]
+}
